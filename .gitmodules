@@ -7,3 +7,6 @@
 [submodule "Map-Reduce-Using-Pipes"]
 	path = Map-Reduce-Using-Pipes
 	url = https://github.com/parnianf/Map-Reduce-Using-Pipes.git
+[submodule "xv6-Modified"]
+	path = xv6-Modified
+	url = https://github.com/parnianf/xv6-Modified.git
