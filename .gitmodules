@@ -1,3 +1,6 @@
 [submodule "Socket-Programming"]
 	path = Socket-Programming
 	url = https://github.com/parnianf/Socket-Programming.git
+[submodule "Image-Filtering-by-Multithreading"]
+	path = Image-Filtering-by-Multithreading
+	url = https://github.com/parnianf/Image-Filtering-by-Multithreading.git
