@@ -4,3 +4,6 @@
 [submodule "Image-Filtering-by-Multithreading"]
 	path = Image-Filtering-by-Multithreading
 	url = https://github.com/parnianf/Image-Filtering-by-Multithreading.git
+[submodule "Map-Reduce-Using-Pipes"]
+	path = Map-Reduce-Using-Pipes
+	url = https://github.com/parnianf/Map-Reduce-Using-Pipes.git
